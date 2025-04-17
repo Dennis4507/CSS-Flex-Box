@@ -35,3 +35,8 @@ li a:hover:not(.active) {
   background-color: #555;
   color: white;
 }
+
+.header {
+  /* ... */
+  align-items: center;  /* Add this */
+}
